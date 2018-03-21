@@ -4,9 +4,10 @@
 *las interacciones del HTML.*
 
 *Además para este ejercicio se utilizó HTML5, CSS Y Javacript.*
+
 **Descripción del proyecto**
 
-***Para desarrollar este proyecto se realizaron los siguientes pasos:
+***Para desarrollar este proyecto se realizaron los siguientes pasos:***
 + Se vinculan los archivos dentro del index.html
 + Se crea una estructura básica html, junto con un Header, Una section para incluir el código 
 + Javascript.
