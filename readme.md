@@ -13,7 +13,10 @@
 + Se vinculan los archivos dentro del index.html
 + Se crea una estructura básica html, junto con un Header, Una section para incluir el código 
 Javascript.
+
 + Se vinculan los scripts  al final del archivo HTML.
++ Se vinculan los scripts al final del archivo HTML.
+
 
 **Una vez realizado los pasos anteriores, se hace un dominio del DOM, para generar los contenedores 
 del mensaje, mediante la función Add().**
