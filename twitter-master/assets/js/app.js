@@ -1,3 +1,4 @@
+
 function add(){
 	//tenemos que tomar el texto en el text area.
 	var comments= document.getElementById("comment").value;
@@ -17,6 +18,13 @@ function add(){
 }else if(comments.length > 140){
 	container.removeChild(button);
 }
+
+ var counter = function(){
+var max = 140
+var count = comments.length
+var countChar = (count - max);
+ };
+
 	//nodos de texto de textarea
 	var textNewComment = document.createTextNode(comments);
     var contenedorElemento = document.createElement('p');
@@ -24,8 +32,6 @@ function add(){
 	newComments.appendChild(contenedorElemento);
 	cont.appendChild(newComments);
 }
-
-
 
 
 
