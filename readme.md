@@ -1,5 +1,8 @@
 #Mi proyecto twitter#
 
+##Desarrollado para##
+<a href="http://www.laboratoria.la/">Laboratoria</a>
+
 ![twitter-img](https://user-images.githubusercontent.com/32277143/38052887-e9e0ed14-32a8-11e8-9e6e-b5d60a148da3.PNG)
 
 
